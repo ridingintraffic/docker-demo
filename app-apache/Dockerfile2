@@ -1,0 +1,3 @@
+FROM 7805edcbc52c
+
+RUN cat /tmp/wat
