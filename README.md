@@ -5,6 +5,9 @@ Fun times
 # app-apache
 simple httpd server to show "application" docker things
 
+# docker-registry
+running a private registry cause lulz
+
 # centos
 centos container for more bnasic things
 
@@ -25,3 +28,9 @@ http://blog.arungupta.me/show-layers-of-docker-image/
 
 Httpd
 https://hub.docker.com/_/httpd
+
+12 factor app
+https://12factor.net/
+
+docker and python
+https://hub.docker.com/_/python/

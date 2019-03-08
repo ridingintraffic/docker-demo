@@ -1,3 +1,6 @@
-FROM httpd:latest
-# https://hub.docker.com/_/httpdR
-RUN  echo "salute the gods" && echo "wat" >> /tmp/wat
+FROM 7805edcbc52c
+
+RUN cat /tmp/wat
+RUN echo "i did something"
+
+RUN apt-get update&& apt-get install nmap
