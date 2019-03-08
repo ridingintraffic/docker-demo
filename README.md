@@ -20,3 +20,8 @@ https://docs.docker.com/config/containers/resource_constraints/
 Starting containers on machine boot
 https://docs.docker.com/config/containers/start-containers-automatically/
 
+Layers of a docker image
+http://blog.arungupta.me/show-layers-of-docker-image/
+
+Httpd
+https://hub.docker.com/_/httpd
